@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo su betty; echo
+su betty -c bash
